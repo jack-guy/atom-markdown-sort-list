@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": ["markdown-sort-list:convert"]
   },
-  "repository": "https://github.com/atom/markdown-sort-list",
+  "repository": "https://github.com/harangue/atom-markdown-sort-list",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
