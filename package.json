@@ -1,7 +1,7 @@
 {
   "name": "markdown-sort-list",
   "main": "./lib/markdown-sort-list",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Sorts a tree of markdown unordered lists alphabetically.",
   "keywords": [],
   "activationCommands": {
