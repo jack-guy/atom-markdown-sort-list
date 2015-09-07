@@ -1,0 +1,18 @@
+{
+  "name": "markdown-sort-list",
+  "main": "./lib/markdown-sort-list",
+  "version": "0.1.0",
+  "description": "Sorts a tree of markdown unordered lists alphabetically.",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": ["markdown-sort-list:convert"]
+  },
+  "repository": "https://github.com/atom/markdown-sort-list",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "marked": "^0.3.5"
+  }
+}
